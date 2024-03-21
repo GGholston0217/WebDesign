@@ -1,5 +1,5 @@
 # WebDesign Erin
 
 <ul>
-    <li><a href="" target="_blank"> 
+    <li><a href="intro_to_html/index.html" target="_blank">Music Influences life</a></li>
 </ul>
